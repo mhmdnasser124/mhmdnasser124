@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/digital-mobile-smartphone-technology-background-with-circuit-diagram_1017-21004.jpg)](https://mhmdnasser124.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQHMPBvE3avWzg/article-inline_image-shrink_1000_1488/0/1616872522462?e=1726099200&v=beta&t=z4J5DlKbOfq_gP4PHmY0gobBusFfM6WJvwNEtrIkse8)](https://mhmdnasser124.io)
 
 <h1 align="center">Hi 👋, I'm Mohammed Nofal</h1>
 <h3 align="center">4+ years as a Mobile Developer. Track record in high-performance teams delivering innovative, customer-centric products that exceed business needs. I value clear communication, attention to detail, and continuous learning, which have helped me achieve success in my previous roles.</h3>
