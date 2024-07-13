@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQGDlnuvr8bEgA/profile-displaybackgroundimage-shrink_350_1400/0/1697253649107?e=1717632000&v=beta&t=XMOWUNNaQUXKl9dbVq5lAw2vuKJYVyVtUgdFH526Jmo)](https://mhmdnasser124.io)
+[![MasterHead](https://img.freepik.com/free-vector/digital-mobile-smartphone-technology-background-with-circuit-diagram_1017-21004.jpg)](https://mhmdnasser124.io)
 
 <h1 align="center">Hi 👋, I'm Mohammed Nofal</h1>
 <h3 align="center">4+ years as a Mobile Developer. Track record in high-performance teams delivering innovative, customer-centric products that exceed business needs. I value clear communication, attention to detail, and continuous learning, which have helped me achieve success in my previous roles.</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdnasser124&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdnasser124" /> </p>
 
-- 🔭 I’m currently working on [MyThings App](https://apps.apple.com/jo/app/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A/id1581316562)
+- 🔭 I’m currently working on [TeePlus App](https://apps.apple.com/sa/app/teeplus/id1501688436)
 
 - 🌱 I’m currently learning **Swift**
 
